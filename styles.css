@@ -4,24 +4,40 @@ header {
     text-align: center;
     color: rgb(51, 24, 50);
     font-family: 'Acme', sans-serif;
-    border-radius: 20px 20px 0px 0px;
-    margin-top: 10px;
+    border-radius: 15px 15px 0px 0px;
+    margin-top: 25px;
     margin-left: 10px;
 }
 
 h1 {
     text-transform: uppercase;
     font-size: 4rem;
+    font-weight: bolder;
     margin: 0%;
     line-height: 70px;
 }
 
 h2 {
     margin: 0%;
-    line-height: 35px;
+    font-size: 2.5rem;
+    line-height: 45px;
+}
+
+main {
+    margin-left: 10px;
+    font-size: 2rem;
+    width: 400px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+    font-family: 'Eagle Lake', cursive;
 }
 
 footer {
     width: 400px;
-    background-color: red;
+    background-color: rgb(144, 79, 206);
+    height: 37px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 0px 0px 15px 15px;
 }
