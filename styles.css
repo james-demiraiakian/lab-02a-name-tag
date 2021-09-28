@@ -1,0 +1,25 @@
+header {
+    width: 400px;
+    background-color: rgb(144, 79, 206);
+    text-align: center;
+    color: rgb(51, 24, 50);
+    font-family: 'Acme', sans-serif;
+    border-radius: 20px 20px 0px 0px;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 4rem;
+    margin: 0%;
+    line-height: 70px;
+}
+
+h2 {
+    margin: 0%;
+    line-height: 35px;
+}
+
+footer {
+    width: 400px;
+    background-color: red;
+}
